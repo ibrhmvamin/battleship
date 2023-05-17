@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\battleship\battleship\Start.h(388,12): warning C4551: function call missing argument list
+C:\Users\User\source\repos\battleship\battleship\Source.cpp(8,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  battleship.vcxproj -> C:\Users\User\source\repos\battleship\x64\Debug\battleship.exe
